@@ -1,0 +1,26 @@
+{
+  "name": "process_imgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands/commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdolniknikita/process_imgs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdolniknikita/process_imgs/issues"
+  },
+  "homepage": "https://github.com/zdolniknikita/process_imgs#readme",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "config": "^3.3.1",
+    "jimp": "^0.10.0"
+  }
+}

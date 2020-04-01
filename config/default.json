@@ -1,0 +1,21 @@
+{
+    "input": {
+        "folder": {
+            "fullpath": ""
+        }
+    },
+    "output": {
+        "folder": {
+            "fullpath": ""
+        },
+        "resize": {
+            "width": 2048,
+            "height": 2048
+        },
+        "watersign": {
+            "fullpath": "",
+            "x": 0,
+            "y": 0
+        }
+    }
+}
